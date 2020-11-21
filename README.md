@@ -136,4 +136,4 @@ server=localhost;user=root;pwd=mypwd;charset=utf8;convertzerodatetime=true;
 
 ## License
 
-MySqlBackup.Net is licensed under the [The Unlicense](https://github.com/MySqlBackupNET/MySqlBackup.Net/blob/master/LICENSE).
+MySQLBackupNetCore is licensed under the [The Unlicense](https://github.com/mohSalah66/MySQLBackupNetCore/blob/master/LICENSE).
