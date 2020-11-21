@@ -3,7 +3,6 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <AssemblyName>MySQLBackupNetCore</AssemblyName>
-    <RootNamespace>MySql.Data.MySqlClient</RootNamespace>
     <Product>MySQLBackupNetCore</Product>
     <PackageId>MySQLBackupNetCore</PackageId>
     <Version>2.1</Version>
