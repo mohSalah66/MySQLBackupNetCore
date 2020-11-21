@@ -2,6 +2,19 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>MySQLBackupNetCore</AssemblyName>
+    <RootNamespace>MySql.Data.MySqlClient</RootNamespace>
+    <Product>MySQLBackupNetCore</Product>
+    <PackageId>MySQLBackupNetCore</PackageId>
+    <Version>2.1</Version>
+    <Authors>Mohammed Salah</Authors>
+    <Copyright>Public Domain</Copyright>
+    <PackageLicenseUrl>https://github.com/MohSalah66/MySQLBackupNetCore/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/MohSalah66/MySQLBackupNetCore</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MohSalah66/MySQLBackupNetCore</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Company />
+    <Description>A tool to backup and restore MySQL database in .NET 5 [.Net Core 5] Only.</Description>
   </PropertyGroup>
 
   <ItemGroup>
