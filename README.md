@@ -9,6 +9,8 @@ This is based on The Greate Work of [**MySqlBackup.Net**](https://github.com/MyS
 The reason i made this repo is i had a problem and this is the only way i solved it.
 use it in any way you see fit.
 
+I choose not to do it in .net Standard for a reason.
+
 It may work for you or it may not.
 
 I Will Keep working on this code and make it better over time.
