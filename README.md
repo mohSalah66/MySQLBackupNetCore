@@ -4,9 +4,9 @@
 A tool to backup and restore MySQL database in .NET 5 [.Net Core 5] Only.
 
 ## Note
-This is based on The Greate Work of [**MySqlBackup.Net**](https://github.com/MySqlBackupNET/MySqlBackup.Net) Thank You.
+This is based on The Great Work of [**MySqlBackup.Net**](https://github.com/MySqlBackupNET/MySqlBackup.Net) Thank You.
 
-The reason I made this repo is I had a problem and this is the only way i solved it.
+The reason I made this repo is I had a problem and this is the only way I solved it.
 use it in any way you see fit.
 
 I choose not to do it in .net Standard for a reason.
